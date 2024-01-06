@@ -1,5 +1,3 @@
-- Risolto il bug del mostrare il messaggio 'Istanza già
-in esecuzione' al tentare di riavviare il programma
 - Migliorata l'esperienza dell'apertura dei gruppi
 - Le icone dei programmi caricati ora sono quelle dei
 file shortcut e non più dei file .exe associati ad essi
