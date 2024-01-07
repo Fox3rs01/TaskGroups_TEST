@@ -1,7 +1,17 @@
-- Migliorata l'esperienza dell'apertura dei gruppi
-- Le icone dei programmi caricati ora sono quelle dei
-file shortcut e non più dei file .exe associati ad essi
-(alte prestazioni)
-- Aggiunti dei suggerimenti
-- Sistemati i temi dei suggerimenti
-- Sistemati dei testi
+- L'Opzione 'spaziatura' ora funziona;
+- Aggiunti i pulsanti funzionanti 'Salva impostazioni' e
+'Carica impostazioni' alla modifica delle opzioni di personalizzazione
+di un qualsiasi gruppo;
+- Risolto il problema che al modificare di una
+qualsiasi opzione di una programma, l'icona del shortcut
+diventava l'icona di un documento vuoto;
+- Risolto il problema che al rimpiazzare di un programma mostrava
+il msg di errore: 'Memoria Insufficiente' (alte prestazioni);
+- Risolto il problema che all'annulare della creazione di un gruppo
+e, annullando la stessa operazione, i programmi scomparivano;
+- Risolto il problema che le impostazioni di personalizzazione
+del gruppo se modificate non si salvavano;
+- Aggiunto un pulsante 'X' all'angolo in alto a destra quando si
+apre il pannello 'Altro';
+- Aggiunta una prima implementazione del caricamento delle impostazioni
+del gruppo aperto (mezzo rotto).
